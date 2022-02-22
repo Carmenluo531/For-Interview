@@ -2,7 +2,7 @@ SELECT prod_id, prod_name, prod_price FROM Products;
 
 -- do not forget semi-colon in the end of each query
 
-SELECT * FrOM Products;
+-- SELECT * FrOM Products;
 
 SELECT * FROM Products limit 5;
 
